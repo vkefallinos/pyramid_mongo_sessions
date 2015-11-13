@@ -1,0 +1,1337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tim",
+				"timeout"
+			],
+			[
+				"status",
+				"status_code"
+			],
+			[
+				"route",
+				"route_name"
+			],
+			[
+				"request",
+				"request_method"
+			],
+			[
+				"json",
+				"json_body"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"views",
+				"viewstest"
+			],
+			[
+				"vi",
+				"viewconfig"
+			],
+			[
+				"vie",
+				"viewconfig"
+			],
+			[
+				"plugin",
+				"plugins"
+			],
+			[
+				"router",
+				"router_external"
+			],
+			[
+				"net",
+				"networks"
+			],
+			[
+				"float",
+				"floating_ip_pools"
+			],
+			[
+				"ser",
+				"service_name"
+			],
+			[
+				"HP",
+				"HPCLOUD"
+			],
+			[
+				"scr",
+				"script_id"
+			],
+			[
+				"insta",
+				"instance_id"
+			],
+			[
+				"exe",
+				"exec_type"
+			],
+			[
+				"backend",
+				"backend_id"
+			],
+			[
+				"key",
+				"key_external_resource"
+			],
+			[
+				"run",
+				"runtime_properties"
+			],
+			[
+				"test_server",
+				"test_server_key"
+			],
+			[
+				"ss",
+				"ssh_user"
+			],
+			[
+				"key_pair",
+				"key_pair_id"
+			],
+			[
+				"use",
+				"use_external_resource"
+			],
+			[
+				"private",
+				"private_key_path"
+			],
+			[
+				"resou",
+				"resource_id"
+			],
+			[
+				"A",
+				"assert"
+			],
+			[
+				"client",
+				"client"
+			],
+			[
+				"machines",
+				"machines"
+			],
+			[
+				"mis",
+				"mist_client"
+			],
+			[
+				"mist",
+				"mist_resource_id"
+			],
+			[
+				"job",
+				"job_id"
+			],
+			[
+				"users",
+				"usersnum"
+			],
+			[
+				"md-",
+				"md-button"
+			],
+			[
+				"onfile",
+				"onFileRemoved"
+			],
+			[
+				"desti",
+				"destinationHeight"
+			],
+			[
+				"destination",
+				"destinationWidth"
+			],
+			[
+				"md-ca",
+				"md-card-footer"
+			],
+			[
+				"md-c",
+				"md-content"
+			],
+			[
+				"files",
+				"filesystem"
+			],
+			[
+				"loade",
+				"loadedPosts"
+			],
+			[
+				"doc",
+				"doc"
+			],
+			[
+				"publ",
+				"publicKey"
+			],
+			[
+				"secre",
+				"secret"
+			],
+			[
+				"Ke",
+				"keyPair"
+			],
+			[
+				"box",
+				"boxKeys"
+			],
+			[
+				"bo",
+				"boxKey"
+			],
+			[
+				"sign",
+				"signKey"
+			],
+			[
+				"add",
+				"addSettingValue"
+			],
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"layout",
+				"layout-align"
+			],
+			[
+				"s",
+				"setting"
+			],
+			[
+				"signe",
+				"signedDoc"
+			],
+			[
+				"decode",
+				"decodeBase64"
+			],
+			[
+				"group",
+				"groupSecrets"
+			],
+			[
+				"requests",
+				"requestsDB"
+			],
+			[
+				"signed",
+				"signedRequest"
+			],
+			[
+				"dec",
+				"decryptDoc"
+			],
+			[
+				"getRe",
+				"getReqDoc"
+			],
+			[
+				"signK",
+				"signKey"
+			],
+			[
+				"new",
+				"newRequestsIds"
+			],
+			[
+				"ge",
+				"getNonce"
+			],
+			[
+				"secret",
+				"secretbox"
+			],
+			[
+				"send",
+				"sendRequest"
+			],
+			[
+				"grou",
+				"groupID"
+			],
+			[
+				"get",
+				"getRequests"
+			],
+			[
+				"info",
+				"infohash"
+			],
+			[
+				"decryp",
+				"decryptDoc"
+			],
+			[
+				"groupI",
+				"groupIDs"
+			],
+			[
+				"deco",
+				"decodeBase64"
+			],
+			[
+				"create",
+				"createPrivateGroup"
+			],
+			[
+				"rea",
+				"readyMainDoc"
+			],
+			[
+				"file",
+				"fileSizeReadyInterval"
+			],
+			[
+				"fi",
+				"fileSizeReadyInterval"
+			],
+			[
+				"news",
+				"newsForm"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"fee",
+				"feedparser"
+			],
+			[
+				"open",
+				"openFileSizes"
+			],
+			[
+				"in",
+				"infoHash"
+			],
+			[
+				"store",
+				"storeFile"
+			],
+			[
+				"encode",
+				"encodeUTF8"
+			],
+			[
+				"si",
+				"signKeys"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"groupK",
+				"groupKey"
+			],
+			[
+				"follo",
+				"following"
+			],
+			[
+				"crea",
+				"creationDate"
+			],
+			[
+				"value",
+				"value	AngularJS"
+			],
+			[
+				"mywall",
+				"mywallunread"
+			],
+			[
+				"sub",
+				"subarray"
+			],
+			[
+				"b",
+				"boxSignKeys"
+			],
+			[
+				"feedId",
+				"feedID"
+			],
+			[
+				"feedID",
+				"feedID"
+			],
+			[
+				"publi",
+				"publicPost"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"md-a",
+				"md-autocomplete"
+			],
+			[
+				"md",
+				"md-button"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"req",
+				"req"
+			],
+			[
+				"pape",
+				"paper-material"
+			],
+			[
+				"paper",
+				"paper-button"
+			],
+			[
+				"iro",
+				"iron-form"
+			],
+			[
+				"subs",
+				"subscriptions"
+			],
+			[
+				"w",
+				"with"
+			],
+			[
+				"d",
+				"don"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"session",
+				"sessionKey"
+			],
+			[
+				"leache",
+				"leachers"
+			],
+			[
+				"pr",
+				"procedure"
+			],
+			[
+				"peer",
+				"peerID"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"messa",
+				"message"
+			],
+			[
+				"conne",
+				"connection"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"rtcp",
+				"rtcpeers"
+			],
+			[
+				"onme",
+				"onmessage"
+			],
+			[
+				"rtc",
+				"rtcKey"
+			],
+			[
+				"ke",
+				"keyPair"
+			],
+			[
+				"connectT",
+				"connectToPeerNode"
+			],
+			[
+				"cookie",
+				"cookie"
+			],
+			[
+				"pee",
+				"peerFeedID"
+			],
+			[
+				"invi",
+				"invitations"
+			],
+			[
+				"admin",
+				"adminKeyPair"
+			],
+			[
+				"keyT",
+				"keyToUint"
+			],
+			[
+				"keyTo",
+				"keyToString"
+			],
+			[
+				"i",
+				"angular.injector"
+			],
+			[
+				"wild",
+				"WildEmitter"
+			],
+			[
+				"connect",
+				"connected"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/session.py",
+			"settings":
+			{
+				"buffer_size": 8483,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\nfrom mongoengine import connect\nfrom auth_token import SessionToken\n\n\ndef get_default_connection(request,\n                           url=None,\n                           mongo_client=MongoClient,\n                           **mongo_options):\n    \"\"\"\n    Default Mongo connection handler. Once a connection is established it is\n    saved in `request.registry`.\n\n    Parameters:\n\n    ``request``\n    The current pyramid request object\n\n    ``url``\n    An optional connection string that will be passed straight to\n    `StrictMongo.from_url`. The connection string should be in the form:\n        mongo://username:password@localhost:6379/0\n\n    ``settings``\n    A dict of keyword args to be passed straight to `StrictMongo`\n\n    Returns:\n\n    An instance of `StrictMongo`\n    \"\"\"\n    # attempt to get an existing connection from the registry\n    mongo = getattr(request.registry, '_mongo_sessions', None)\n\n    # if we found an active connection, return it\n    if mongo is not None:\n        return mongo\n\n    # otherwise create a new connection\n    if url is not None:\n        # remove defaults to avoid duplicating settings in the `url`\n        mongo_options.pop('password', None)\n        mongo_options.pop('host', None)\n        mongo_options.pop('port', None)\n        mongo_options.pop('db', None)\n        # the StrictMongo.from_url option no longer takes a socket\n        # argument. instead, sockets should be encoded in the URL if\n        # used. example:\n        #     unix://[:password]@/path/to/socket.sock?db=0\n        mongo_options.pop('unix_socket_path', None)\n        # connection pools are also no longer a valid option for\n        # loading via URL\n        mongo_options.pop('connection_pool', None)\n        client = MongoClient('localhost:27017')\n        mongo = mongo_client.from_url(url, **mongo_options)\n    else:\n        mongo = mongo_client(**mongo_options)\n\n    # save the new connection in the registry\n    setattr(request.registry, '_mongo_sessions', mongo)\n\n    return mongo\n",
+			"file": "/home/vasilis/projects/Mist/testing/mongo_sessions/mongo_session/connection.py",
+			"file_size": 13,
+			"file_write_time": 130918402604952071,
+			"settings":
+			{
+				"buffer_size": 1994,
+				"line_ending": "Unix",
+				"name": "connection.py"
+			}
+		},
+		{
+			"file": "auth_token.py",
+			"settings":
+			{
+				"buffer_size": 2564,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/__init__.py",
+			"settings":
+			{
+				"buffer_size": 9461,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "# -*- coding: utf-8 -*-\n\n\"\"\"\nDefines common methods for obtaining a mongo connection.\n\nTo use a custom connect function, create a callable with parameters:\n\n  ``request``\n  The current pyramid request object\n\n  ``**mongo_options``\n  Additional keyword arguments accepted by mongo-py's StrictMongo class\n\n\nThe callable must return an instance of StrictMongo or must implement the same\ninterface.\n\nTo use your custom connection function, you can pass it in directly as the\n``client_callable`` argument to ``pyramid_mongo_sessions.MongoSessionFactory``\nor ``pyramid_mongo_sessions.session_factory_from_settings``, or in your config\nfile you can specify a dotted python path as a string.\n\n\nExample configuration in python::\n\n    from my_cool_app import my_mongo_connection_getter\n    from pyramid_mongo_sessions import session_factory_from_settings\n\n    def main(global_config, **settings):\n        config = Configurator(**settings)\n        settings['client_callable'] = my_mongo_connection_getter\n        session_factory = session_factory_from_settings(settings)\n        config.set_session_factory(session_factory)\n\n\nExample configuration from an ini file::\n\n    mongo.sessions.secret = mysecret\n    mongo.sessions.client_callable = my_cool_app.my_mongo_client_getter\n\n\nThis option is available so that developers can define their own Mongo\ninstances as needed, but most users should not need to customize how they\nconnect.\n\"\"\"\n\nfrom mongoengine import connect\nfrom auth_token import SessionToken\n\n\ndef get_default_connection(request,\n                           url=None,\n                           mongo_client=MongoClient,\n                           **mongo_options):\n    \"\"\"\n    Default Mongo connection handler. Once a connection is established it is\n    saved in `request.registry`.\n\n    Parameters:\n\n    ``request``\n    The current pyramid request object\n\n    ``url``\n    An optional connection string that will be passed straight to\n    `StrictMongo.from_url`. The connection string should be in the form:\n        mongo://username:password@localhost:6379/0\n\n    ``settings``\n    A dict of keyword args to be passed straight to `StrictMongo`\n\n    Returns:\n\n    An instance of `StrictMongo`\n    \"\"\"\n    # attempt to get an existing connection from the registry\n    mongo = getattr(request.registry, '_mongo_sessions', None)\n\n    # if we found an active connection, return it\n    if mongo is not None:\n        return mongo\n\n    # otherwise create a new connection\n    if url is not None:\n        # remove defaults to avoid duplicating settings in the `url`\n        mongo_options.pop('password', None)\n        mongo_options.pop('host', None)\n        mongo_options.pop('port', None)\n        mongo_options.pop('db', None)\n        # the StrictMongo.from_url option no longer takes a socket\n        # argument. instead, sockets should be encoded in the URL if\n        # used. example:\n        #     unix://[:password]@/path/to/socket.sock?db=0\n        mongo_options.pop('unix_socket_path', None)\n        # connection pools are also no longer a valid option for\n        # loading via URL\n        mongo_options.pop('connection_pool', None)\n        client = MongoClient('localhost:27017')\n        mongo = mongo_client.from_url(url, **mongo_options)\n    else:\n        mongo = mongo_client(**mongo_options)\n\n    # save the new connection in the registry\n    setattr(request.registry, '_mongo_sessions', mongo)\n\n    return mongo\n",
+			"file": "/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/connection.py",
+			"file_size": 3335,
+			"file_write_time": 130918395292392263,
+			"settings":
+			{
+				"buffer_size": 3419,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/home/vasilis/projects/Mist/testing/mongo_sessions/mongo_session/__init__.py",
+			"file_size": 11,
+			"file_write_time": 130918402257392080,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "__init__.py"
+			}
+		},
+		{
+			"file": "connection.py",
+			"settings":
+			{
+				"buffer_size": 5530,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"last_filter": "Package Control:",
+		"selected_items":
+		[
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INS",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Angular.js"
+			],
+			[
+				"Package Contr",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"ls",
+			"join_lines",
+			"help",
+			"l",
+			"5+4",
+			"5=4",
+			"python",
+			"esvalidate /home/vasilis/projects/PeerBay/peerFeed/backbone/pf.js",
+			"ngdirective",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/vasilis/projects/Mist/testing/mongo_sessions",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/mongo_session",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions",
+		"/home/vasilis/projects/Mist/testing/pyramid_mongodb_sessions/pyramid_mongo_sessions"
+	],
+	"file_history":
+	[
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/tests/__init__.py",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/tests/test_config.py",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/tests/test_connection.py",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/tests/test_factory.py",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/tests/test_session.py",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/tests/test_util.py",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/util.py",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/__init__.py",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/connection.py",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/docs/Makefile",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/docs/advanced.rst",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/docs/api.rst",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/docs/conf.py",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/docs/contributing.rst",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/docs/gettingstarted.rst",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/docs/index.rst",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/docs/make.bat",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/docs/redis.rst",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/session.py",
+		"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/random.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/model.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/methods.py",
+		"/home/vasilis/projects/migrate_backend.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/config.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/scripts/validate_db.py",
+		"/home/vasilis/projects/mist.core/src/mist.io/src/mist/io/helpers.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/tasks.py",
+		"/home/vasilis/projects/backend_to_cloud_mongo.py",
+		"/home/vasilis/projects/token.py",
+		"/home/vasilis/projects/Mist/mist.core/eggs/pycrypto-2.6.1-py2.7-linux-x86_64.egg/Crypto/Random/random.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/helpers.py",
+		"/home/vasilis/projects/Mist/mist.core/parts/buildout-node/node-v0.12.7-linux-x64/lib/node_modules/npm/node_modules/read-package-json/node_modules/json-parse-helpfulerror/node_modules/jju/lib/document.js",
+		"/home/vasilis/projects/Mist/mist.core/uwsgi.ini",
+		"/home/vasilis/projects/Mist/testing/pyramid_mongodb_sessions/pyramid_mongo_sessions/__init__.py",
+		"/home/vasilis/projects/Mist/mist.core/eggs/Beaker-1.7.0-py2.7.egg/beaker/middleware.py",
+		"/home/vasilis/projects/Mist/mist.core/eggs/Beaker-1.7.0-py2.7.egg/beaker/util.py",
+		"/home/vasilis/projects/Mist/mist.core/eggs/Beaker-1.7.0-py2.7.egg/beaker/session.py",
+		"/home/vasilis/projects/Mist/env/lib64/python2.7/site-packages/pyramid_beaker/__init__.py",
+		"/home/vasilis/projects/Mist/testing/pyramid_mongodb_sessions/pyramid_mongo_sessions/session.py",
+		"/home/vasilis/projects/Mist/testing/pyramid_mongodb_sessions/pyramid_mongo_sessions/util.py",
+		"/home/vasilis/projects/Mist/mist.core/eggs/ipython-4.0.0-py2.7.egg/IPython/core/history.py",
+		"/home/vasilis/projects/Mist/testing/pyramid_mongodb_sessions/pyramid_mongo_sessions/random.py",
+		"/home/vasilis/projects/Mist/mist.core/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/etree.py",
+		"/home/vasilis/.ssh/git_rsa.pub",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/web/wsgi.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/web/tornado.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/web/__init__.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/test/store/test_mongodb.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/__init__.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/__init__.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/client_authenticator.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/datatype.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/error.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/grant.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/log.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/store/__init__.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/store/dbapi/__init__.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/store/dbapi/mysql.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/store/memcache.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/store/memory.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/store/mongodb.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/store/redisdb.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/test/functional/__init__.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/test/functional/test_authorization_code.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/test/store/test_dbapi.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/test/store/test_memcache.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/test/store/test_memory.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/test/store/test_redisdb.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/test/test_client_authenticator.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/test/test_datatype.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/test/test_grant.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/test/test_oauth2.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/test/test_web.py",
+		"/home/vasilis/projects/mist.core/src/mist/core/authentication/test/test_tokengenerator.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist.io/src/mist/io/views.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist.io/src/mist/io/helpers.py",
+		"/home/vasilis/projects/Mist/testing/mist.core/src/mist/core/methods.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/scripts/populate_db.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/views.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/model.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/methods.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/scripts/manage_users/chaos_migration.py",
+		"/home/vasilis/projects/Mist/testing/mist.io/haproxy.conf",
+		"/home/vasilis/projects/Mist/testing/mist.io/src/mist/io/dal.py",
+		"/home/vasilis/projects/Mist/testing/mist.io/templates/rabbitmq.config.in",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/static/swagger/index.html",
+		"/home/vasilis/projects/Mistio/mistclient/src/mistclient/model.py",
+		"/home/vasilis/projects/Mistio/mistclient/src/mistclient/helpers.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist.io/src/mist/io/api.yaml",
+		"/home/vasilis/projects/Mistio/mistclient/src/mistclient/__init__.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/__init__.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/static/swagger-editor/scripts/scripts.js",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/static/swagger/api.json",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/static/swagger-editor/templates/auth/basic.html",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/static/swagger-editor/index.html",
+		"/home/vasilis/Downloads/swagger (2).yaml",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/authenticator.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/static/api.json",
+		"/home/vasilis/projects/Mist/mist.core/src/mist.io/src/mist/io/methods.py",
+		"/home/vasilis/projects/Mistio/mistapigen/dimoapi.yaml",
+		"/home/vasilis/projects/Mistio/mist.io/src/mist/io/views.py",
+		"/home/vasilis/projects/Mist/mist.core/src/libcloud/libcloud/compute/types.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist/core/api_generator.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist.io/src/mist/io/static/js/app.js",
+		"/home/vasilis/projects/Mistio/mist.io/src/mist/io/__init__.py",
+		"/home/vasilis/projects/Mist/mist.core/src/libcloud/libcloud/compute/drivers/hpcloud.py",
+		"/home/vasilis/projects/Mistio/api.json",
+		"/home/vasilis/projects/testing/json_schema_generator/json_schema_generator/generator.py",
+		"/home/vasilis/projects/testing/json_schema_generator/json_schema_generator/__init__.py",
+		"/home/vasilis/projects/testing/json_schema_generator/json_schema_generator/recorder.py",
+		"/home/vasilis/projects/testing/json_schema_generator/json_schema_generator/schema_types.py",
+		"/home/vasilis/projects/testing/json_schema_generator/json_schema_generator/validator.py",
+		"/home/vasilis/projects/Mist/mist.core/src/libcloud/libcloud/compute/drivers/openstack.py",
+		"/home/vasilis/projects/testing/hpcloud.py",
+		"/home/vasilis/projects/Mist/mist.core/src/libcloud/libcloud/common/base.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist.io/uwsgi.ini",
+		"/home/vasilis/projects/Mist/mist.core/src/mist.io/src/mist/io/tests.py",
+		"/home/vasilis/.config/sublime-text-3/Packages/User/pep8_autoformat.sublime-settings",
+		"/home/vasilis/.config/sublime-text-3/Packages/Python PEP8 Autoformat/Default (Linux).sublime-keymap",
+		"/home/vasilis/.config/sublime-text-3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/home/vasilis/projects/testing/libcloud/libcloud/common/openstack_identity.py",
+		"/home/vasilis/projects/testing/libcloud/libcloud/compute/drivers/hpcloud.py",
+		"/home/vasilis/projects/testing/libcloud/libcloud/utils/connection.py",
+		"/home/vasilis/projects/testing/libcloud/libcloud/common/base.py",
+		"/home/vasilis/projects/testing/libcloud/libcloud/common/openstack.py",
+		"/home/vasilis/projects/testing/libcloud/libcloud/compute/drivers/openstack.py",
+		"/home/vasilis/projects/Mist/mist.core/src/mist.io/src/mist/io/static/js/app/controllers/machine_power.js",
+		"/home/vasilis/projects/Mist/mist.core/src/mist.io/src/mist/io/static/js/init.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions",
+			"/home/vasilis/projects/Mist/testing/pyramid_mongodb_sessions/pyramid_mongo_sessions",
+			"/home/vasilis/projects/mist.core/src/mist",
+			"/home/vasilis/projects/mist.core/src/mist/core/authentication",
+			"/home/vasilis/projects/mist.core/src/mist",
+			"/home/vasilis/projects/mist.core/src/mist.io/src/mist/io/static",
+			"/home/vasilis/projects/mist.core/src/mist.io/src/mist/io/static/js",
+			"/home/vasilis/projects/mist.core/src/mist/core",
+			"/home/vasilis/projects/mist.core/src",
+			"/home/vasilis/projects/mist.core/src/mist",
+			"/home/vasilis/projects/mist.core/src",
+			"/home/vasilis/projects/mist.core",
+			"/home/vasilis/projects/Mist/mist.core/src/mist",
+			"/home/vasilis/projects/testing/libcloud/libcloud",
+			"/home/vasilis/projects/Mist/mist.core/src/mist.io/src/mist/io",
+			"/home/vasilis/projects/PeerBay/peerNode/testing/crossbarexamples/authenticate/wampcradynamic/nodejs",
+			"/home/vasilis/projects/PeerBay/peerFeed/backbone"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"mongo.",
+			"mongo",
+			"mongo.",
+			"mongo",
+			"redis",
+			"Redis",
+			"check_p",
+			"ISession",
+			"MongoSession",
+			"_set_cookie",
+			"asbool",
+			"MongoSession",
+			"SessionFactory",
+			"essionFactory",
+			"factor",
+			"imple",
+			"factory",
+			"raise",
+			"invalida",
+			"login",
+			"Cookie",
+			"cookie",
+			"key",
+			"crypto",
+			"wrapped",
+			"update",
+			"pop",
+			"config.incl",
+			"ersisted",
+			"clear",
+			"persist",
+			"accessed_at",
+			"acces",
+			"client_call",
+			"client_call\n",
+			"client_call",
+			"def client_c",
+			"client_c",
+			"get_unique_session_id",
+			"accessed_at",
+			"getrandbits",
+			"randrange",
+			"kwargs",
+			"ew_session",
+			"new_session",
+			"redis",
+			"ssh",
+			"monitoring",
+			"Invalid csrf",
+			"backend",
+			"machine",
+			"machines",
+			"backend",
+			"auth",
+			"/auth",
+			"auth",
+			"oauth2",
+			"mongo",
+			"mongodb.",
+			"mongo",
+			"mist",
+			"beaker",
+			"Response",
+			"pyramid.Response",
+			"cookie",
+			"beaker",
+			"check_password",
+			"stats",
+			"user_from_session_id",
+			"= beaker.session",
+			"beaker.session.",
+			"beaker.session",
+			"beaker.session.Cookie",
+			"beaker.session",
+			"login",
+			"sessionmiddl",
+			"beaker",
+			"middleware",
+			"login",
+			"register",
+			"mongo",
+			"def regi",
+			"login",
+			"create",
+			"regist",
+			"check_au",
+			"check_",
+			"create",
+			"register",
+			"login",
+			"register",
+			"logs",
+			"rule",
+			"rules",
+			"list_rules",
+			"list_ules",
+			"rules",
+			"sign",
+			"MongoClient",
+			"_mongo_client",
+			"mongo",
+			"Backend",
+			"social",
+			"cloud",
+			"backend",
+			"user_from_request",
+			"tags",
+			"basic",
+			"basic_",
+			"login",
+			"/login",
+			"auth",
+			"oauth",
+			"story",
+			"vcloud",
+			"keys",
+			"add_rule",
+			"deploy_py",
+			"can_",
+			"can_reboot",
+			"can_start",
+			"tags",
+			"assoc",
+			"assoc_",
+			"key_assoc",
+			"get_publ",
+			"edit_ke",
+			"metric"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mongo",
+			"Mongo",
+			"last_accessed",
+			"mongo",
+			"mist.core.authentication",
+			"backend",
+			"",
+			"\"",
+			"fabricscripts",
+			"echo",
+			"ctx.instance.runtime_properties[",
+			"requestsDB",
+			"",
+			"_reqID",
+			"_sendRequest",
+			"PouchDB.utils.uuid()",
+			"PouchDB",
+			"",
+			"profiles",
+			"",
+			"findClosest",
+			"update",
+			"newRoutingTable",
+			"prefixLen",
+			"less",
+			"equals",
+			"span",
+			"user",
+			"connected",
+			"SignInController"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/session.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/vasilis/projects/Mist/testing/mongo_sessions/mongo_session/connection.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"auto_name": "connection.py",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "auth_token.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/home/vasilis/projects/Mist/testing/mongo_sessions/pyramid_redis_sessions/connection.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3419,
+								1496
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/vasilis/projects/Mist/testing/mongo_sessions/mongo_session/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "__init__.py",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "connection.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1490,
+								1490
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 294.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "auth_tokens.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"autoap",
+				"~/projects/Mistio/autoapi.py"
+			],
+			[
+				"",
+				"mist.core/src/mist.io/src/mist/io/views.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/Mistio/mist-nodecellar-example/mist-nodecellar.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
